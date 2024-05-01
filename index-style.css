@@ -47,5 +47,39 @@ p{
   margin-right: auto;
 }
 
+.p1{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: black;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: auto;
+}
 
+.p2{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: black;
+  text-align: center;
+  margin-left: 350px;
+  margin-right: auto;
+}
 
+.p3{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: black;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: auto;
+  
+}
