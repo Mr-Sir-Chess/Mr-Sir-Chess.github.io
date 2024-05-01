@@ -34,7 +34,7 @@ h1 {
   width: 30%;
 }
 p {
-  display: inline-block;
+  display: block;
   color: black;
   font-class: Monotype;
   block-align: center !important;
