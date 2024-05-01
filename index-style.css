@@ -58,10 +58,9 @@ p{
   font-size: 32px;
   font-color: black;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-pgroup{
-  text-align: center;
-}
 
 
