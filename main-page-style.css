@@ -1,8 +1,72 @@
 body {
-   background: rgba(0, 128, 0, 0.3)
+  background: rgba(0,0,128, 0.8);
 }
 h1 {
   color: black;
   font-weight: bold;
   text-align: center;
+}
+
+.img_1 {
+
+  width: 250px;
+  margin: 10px;
+  border-color: green;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.img_2 {
+  width: 250px;
+  margin: 10px;
+  border-color: red;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.img_3 {
+  width: 250px;
+  margin: 10px;
+  border-color: green;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+p{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: black;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: auto;
+}
+
+.p1{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: black;
+  text-align: center;
+  margin-left: 350px;
+  margin-right: auto;
 }
