@@ -95,3 +95,16 @@ p{
   margin-right: auto;
   
 }
+
+.p4{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: blue;
+  text-align: center;
+  margin-left: 350px;
+  margin-right: auto;
+  
+}
