@@ -1,5 +1,5 @@
 body {
-  background: rgba(0,0,128, 0.8);
+  background: rgba(0,0,128, 0.5);
 }
 h1 {
   color: black;
@@ -67,6 +67,6 @@ p{
   font-size: 32px;
   font-color: black;
   text-align: center;
-  margin-left: 350px;
+  margin-left: 400px;
   margin-right: auto;
 }
