@@ -70,3 +70,15 @@ p{
   margin-left: 500px;
   margin-right: auto;
 }
+
+.p2{
+  display: inline;
+  border: 4px;
+  border-style: solid;
+  border-color: black;
+  font-size: 32px;
+  font-color: white;
+  text-align: center;
+  margin-left: 500px;
+  margin-right: auto;
+}
